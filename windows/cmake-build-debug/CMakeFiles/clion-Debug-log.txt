@@ -1,0 +1,6 @@
+"/Users/ldd/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/ldd/Applications/CLion Nova.app/Contents/bin/ninja/mac/aarch64/ninja" -G Ninja -S /Users/ldd/StudioProjects/win_printer_tool/windows -B /Users/ldd/StudioProjects/win_printer_tool/windows/cmake-build-debug
+CMake Error at CMakeLists.txt:36 (apply_standard_settings):
+  Unknown CMake command "apply_standard_settings".
+
+
+-- Configuring incomplete, errors occurred!

@@ -1,0 +1,5 @@
+if(EXISTS "/Users/ldd/StudioProjects/win_printer_tool/example/windows/cmake-build-debug/plugins/win_printer_tool/win_printer_tool_test[1]_tests.cmake")
+  include("/Users/ldd/StudioProjects/win_printer_tool/example/windows/cmake-build-debug/plugins/win_printer_tool/win_printer_tool_test[1]_tests.cmake")
+else()
+  add_test(win_printer_tool_test_NOT_BUILT win_printer_tool_test_NOT_BUILT)
+endif()

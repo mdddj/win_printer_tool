@@ -1,0 +1,21 @@
+# ninja log v5
+0	12	1700537013462644506	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	b98cfa4dce5fdfb0
+4225	4236	1700537017686587907	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	8f637e932109712
+12	4214	1700537017665387685	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	87e8614fd96c3f64
+4277	4292	1700537017742754733	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	9e5fbabda4e0f7a1
+12	4214	1700537017665387685	/Users/ldd/StudioProjects/win_printer_tool/example/windows/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	87e8614fd96c3f64
+4236	4246	1700537017696898557	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	ed77c5d07cdf241
+0	12	1700537013462644506	/Users/ldd/StudioProjects/win_printer_tool/example/windows/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	b98cfa4dce5fdfb0
+4236	4246	1700537017696898557	/Users/ldd/StudioProjects/win_printer_tool/example/windows/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	ed77c5d07cdf241
+4246	4256	1700537017707081541	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	4e4d9dfcadcb5276
+4214	4225	1700537017675862753	/Users/ldd/StudioProjects/win_printer_tool/example/windows/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	7922024490a20fd4
+4225	4236	1700537017686587907	/Users/ldd/StudioProjects/win_printer_tool/example/windows/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	8f637e932109712
+4214	4225	1700537017675862753	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	7922024490a20fd4
+4246	4256	1700537017707081541	/Users/ldd/StudioProjects/win_printer_tool/example/windows/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	4e4d9dfcadcb5276
+4277	4292	1700537017742754733	/Users/ldd/StudioProjects/win_printer_tool/example/windows/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	9e5fbabda4e0f7a1
+4277	4292	1700537017742754733	/Users/ldd/StudioProjects/win_printer_tool/example/windows/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	9e5fbabda4e0f7a1
+4256	4267	1700537017717798194	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	6e74760916cd2d96
+4256	4267	1700537017717798194	/Users/ldd/StudioProjects/win_printer_tool/example/windows/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	6e74760916cd2d96
+4267	4277	1700537017728197554	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	cc0de7006cfa0a06
+4267	4277	1700537017728197554	/Users/ldd/StudioProjects/win_printer_tool/example/windows/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	cc0de7006cfa0a06
+4277	4292	1700537017742754733	CMakeFiles/googletest-populate-complete	9e5fbabda4e0f7a1
